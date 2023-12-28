@@ -1,0 +1,20 @@
+:root {
+    --primary-gradient: linear-gradient(180deg, rgba(100,72,254,1) 0%, rgba(96,5,148,1) 100%);
+    --error: hsl(0, 100%, 66%);
+    --white: hsl(0, 0%, 100%);
+    --light-grayish-violet: hsl(270, 3%, 87%);
+    --dark-grayish-violet: hsl(279, 6%, 55%);
+    --very-dark-violet: hsl(278, 68%, 11%);
+
+    --violet-100: var(--light-grayish-violet);
+    --violet-400: var(--dark-grayish-violet);
+    --violet-900: var(--very-dark-violet);
+
+    --fs-100: 0.5625rem;
+    --fs-200: 0.75rem;
+    --fs-300: 0.875rem;
+    --fs-400: 1.125rem;    
+    --fs-800: 1.75rem;
+
+    --fw-medium: 500;
+}
