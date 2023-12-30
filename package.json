@@ -27,7 +27,6 @@
     "@felte/reporter-svelte": "^1.1.11",
     "@felte/validator-zod": "^1.0.17",
     "@fontsource-variable/space-grotesk": "^5.0.15",
-    "creditcard.js": "^3.0.33",
     "felte": "^1.2.12",
     "validator": "^13.11.0"
   }
