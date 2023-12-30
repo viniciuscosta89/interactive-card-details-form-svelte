@@ -59,6 +59,10 @@
     width: 17.8125rem;
     padding: 1.1rem 1.2rem;
 
+    @media (768px <= width < 1280px) {
+      margin-inline-start: -5rem;
+    }
+
     @media (width >= 1280px) {
       background-image: url("/src/assets/bg-card-front-desktop.png");
       border-radius: 0.625rem;

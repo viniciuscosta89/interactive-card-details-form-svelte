@@ -79,6 +79,11 @@
     align-self: flex-end;
     padding: 1rem 0;
 
+    @media (768px <= width < 1280px) {
+      margin-inline-start: 5rem;
+      align-self: center;
+    }
+
     @media (width >= 1280px) {  
       align-self: flex-start;  
       order: 1;  

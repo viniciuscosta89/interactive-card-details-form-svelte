@@ -8,7 +8,7 @@
     background-image: url("/src/assets/bg-gradient-mobile.jpg");
     background-repeat: no-repeat;
     background-position: top;
-    background-size: 100% auto;
+    background-size: 100% 15rem;
     width: 100%;
     height: 100svh;
     display: flex;

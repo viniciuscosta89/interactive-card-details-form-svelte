@@ -186,6 +186,10 @@
 </main>
 
 <style lang="scss">
+  main {
+    min-height: 100%;
+  }
+
   .form {
     display: flex;
     flex-direction: column;
